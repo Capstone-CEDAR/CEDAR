@@ -130,3 +130,6 @@ dmypy.json
 
 # datasets are large
 data/
+
+# No one wants this many shapefiles
+shapefiles/
